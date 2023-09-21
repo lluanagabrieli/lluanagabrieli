@@ -12,7 +12,7 @@
   <a href="https://github.com/lluanagabrieli">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lluanagabrieli&show_icons=true&theme=dracula&line_height=27" alt="Luana Gabrieli github stats"/>
 </a>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 </div>
 
 <div> 
