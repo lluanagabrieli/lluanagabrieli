@@ -1,3 +1,3 @@
 ### Olá, visitante! 👋
 
-![Luana Gabrieli GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Luana Gabrieli GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanagabrieli&show_icons=true&theme=transparent)
