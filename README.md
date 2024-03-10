@@ -1,5 +1,6 @@
 ## Olá!
-Bem-vindo(a) ao meu Github, me chamo Luana Gabrieli. Atualmente faço Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá - FEPI 4|5. Amo natureza, leitura e o universo Marvel e StarWars. Fique a vontade para ver os meus repositórios :)
+Bem-vindo(a) ao meu Github. Atualmente faço Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá - FEPI 4|5.<br>
+Fique a vontade para ver os meus repositórios, aqui você vai encontrar desde os trabalhos de faculdade até os que idealizei.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
