@@ -1,5 +1,5 @@
 ## Olá!
-Bem-vindo(a) ao meu Github. Atualmente faço Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá - FEPI 4|5.<br>
+Bem-vindo(a) ao meu Github. Atualmente faço Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá - FEPI 4|5 e sou estagiária em desenvolvimento Front-End.<br>
 Fique a vontade para ver os meus repositórios, aqui você vai encontrar desde os trabalhos de faculdade até os que idealizei.
 
 <div style="display: inline_block"><br>
