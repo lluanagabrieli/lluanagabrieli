@@ -17,7 +17,3 @@ Fique a vontade para ver os meus repositórios, aqui você vai encontrar desde o
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluanagabrieli&theme=dracula&hide_langs_below=1" />
-</a>
