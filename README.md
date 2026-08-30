@@ -1,6 +1,11 @@
-## Olá!
-Bem-vindo(a) ao meu Github. Sou formada em Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá - FEPI e sou Desenvolvedora Front-End.<br>
-Fique a vontade para ver os meus repositórios, aqui você vai encontrar desde os trabalhos de faculdade até os que idealizei.
+# Luana Gabrieli
+
+## Tech Lead | Frontend Developer
+
+Desenvolvedora Frontend com experiência no desenvolvimento de aplicações web utilizando TypeScript, Angular e Tailwind.
+
+Atualmente atuo como Tech Lead e Desenvolvedora Frontend, desenvolvendo aplicações web, integrações com APIs REST, aplicando boas práticas, componentização e código reutilizável. No dia a dia, também atuo na organização técnica do time, apoio nas decisões de arquitetura e desenvolvimento, revisão de código e acompanhamento das entregas.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
